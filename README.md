@@ -1,5 +1,4 @@
 # To-do-list-using-vanilla-js
-<br>
 The To-Do App is a simple and effective task management web application built using JavaScript. This application provides a straightforward and user-friendly interface for managing your tasks and staying organized. With the To-Do App, you can easily create, edit, and mark tasks as complete, helping you stay on top of your daily responsibilities and goals.
 <br>
 <h3>Features</h3>
